@@ -1,0 +1,9 @@
+Do the Laundry.
+Return the book to library.
+Visit the new Museum.
+Print the pictures.
+Fix the Floor.
+dinner
+Buy Grocery
+lunch
+snacks
